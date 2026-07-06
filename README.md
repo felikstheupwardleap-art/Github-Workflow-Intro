@@ -7,7 +7,7 @@
         <br>↓<br>
 4. 在 readme-edits 里面修改 README
         <br>↓<br>
-5. commit changes 保存这次修改
+5. commit changes 保存这次修改 (在 readme-edits 里)
         <br>↓<br>
 6. open pull request 发起合并请求
         <br>↓<br>
