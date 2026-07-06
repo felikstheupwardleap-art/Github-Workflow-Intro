@@ -1,6 +1,6 @@
 # Github-工作流简介
 1. 创建仓库 HelloWorld
-        ↓
+        <br>↓<br>
 2. main 是默认正式分支
         ↓
 3. 从 main 创建 readme-edits 分支
